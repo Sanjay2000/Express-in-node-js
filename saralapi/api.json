@@ -1,0 +1,660 @@
+[
+  {
+    "name": "Navugurukul",
+    "description": "it is the Best NGO",
+    "id": 1,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "@aadil",
+        "content": " iam fullstak Devloper",
+        "hint": "easy",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "helpfull person",
+            "user": "kumar"
+          },
+          {
+            "submission_id": 2,
+            "content": "asdcfv",
+            "user": "@kapil"
+          },
+          {
+            "submission_id": 3,
+            "content": "i am a Sofware Engineer",
+            "user": "@sanjay"
+          },
+          {
+            "submission_id": 4,
+            "content": "i am a Sofware Engineer",
+            "user": "@sanjay"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning CSS (Ek naya naam)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 2,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "helpfull person",
+            "user": "kumar"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning JavaScript",
+    "description": "Iss course mein hum ache se shayad js seekh jayein..",
+    "id": 3,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "@rahul",
+        "content": " iam fullstak Devloper",
+        "hint": "easy",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning Anand (Ek naya naam)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 4,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning Jagan ",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 5,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 3,
+        "name": "sanjay",
+        "content": "this is a content",
+        "hint": "this is a hint",
+        "submission": []
+      }
+    ]
+  },
+  {
+    "name": "Learning me",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 6,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning yogendra",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 7,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning Anoop and Anand",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 8,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ruby on Rails",
+    "description": "Is me hum Ruby on Rails Seekhenge.",
+    "id": 9,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning Javascript (Ek naya naam)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge in Navgurukul.",
+    "id": 10,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 11,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS and javascript",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 12,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 13,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 14,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jai",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 15,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "sanjay",
+    "description": "Iss course mein hum ache se Dik garlick aur overy seekhenge.",
+    "id": 16,
+    "exercises": [
+      {
+        "exercises_id": 1,
+        "name": "pata nahi",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "hllo frend",
+            "user": "kumar shanu"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      },
+      {
+        "exercises_id": 2,
+        "name": "@yogender",
+        "content": "good boy",
+        "hint": "help full",
+        "submission": [
+          {
+            "submission_id": 1,
+            "content": "good boy"
+          },
+          {
+            "submission_id": 2,
+            "content": "good boy"
+          }
+        ]
+      }
+    ]
+  }
+]
